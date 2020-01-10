@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650123784805",
+    "firebase_url": "https://cazamayordef.firebaseio.com",
+    "project_id": "cazamayordef",
+    "storage_bucket": "cazamayordef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650123784805:android:1af8c0870dfa3108090c8c",
+        "android_client_info": {
+          "package_name": "com.uva.caza_mayor_def"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650123784805-q62a5g32n84d1oc1tn0k1ctdavcnpmm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uva.caza_mayor_def",
+            "certificate_hash": "03f42f122214655c1d2e7e813a9e3e9fd81b5c62"
+          }
+        },
+        {
+          "client_id": "650123784805-lej9j7s820otpulj7ek77rv7jdohlido.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTXHTJB8-gE60fI0g6xmIl7v4auE-F4ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650123784805-lej9j7s820otpulj7ek77rv7jdohlido.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
